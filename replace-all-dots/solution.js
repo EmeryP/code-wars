@@ -1,3 +1,3 @@
 var replaceDots = function(str) {
-  return str.replace(/./, '-');
-}
+  return str.replace(/\./g, '-');
+};
