@@ -1,3 +1,5 @@
+//Alternate capitalization kata
+
 function capitalize(s){
 
   let solution = '';
