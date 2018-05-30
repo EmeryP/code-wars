@@ -1,5 +1,4 @@
-
-Problem Domain:
+# Problem Domain:
 
 Given a string of words, you need to find the highest scoring word.
 
@@ -12,6 +11,6 @@ If two words score the same, return the word that appears earliest in the origin
 All letters will be lowercase and all inputs will be valid.
 
 
-Code Wars:
+# Code Wars:
 
 https://www.codewars.com/kata/highest-scoring-word/train/javascript
