@@ -1,2 +1,2 @@
-# code-wars
-Repo holding all 301 code wars challenges
+# Code-Wars
+This repo contains various code wars challenges I have completed
